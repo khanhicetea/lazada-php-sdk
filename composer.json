@@ -1,0 +1,25 @@
+{
+    "name": "appolous/lazada-php-sdk",
+    "description": "A Lazada PHP SDK",
+    "keywords": [
+        "lazada",
+        "sdk"
+    ],
+    "homepage": "https://github.com/khanhicetea/lazada-php-sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KhanhIceTea",
+            "email": "hi@khanhicetea.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+    },
+    "autoload": {
+        "psr-4": {
+            "Lazada\\": "src"
+        }
+    }
+}

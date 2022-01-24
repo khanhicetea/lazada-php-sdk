@@ -1,5 +1,5 @@
 {
-    "name": "appolous/lazada-php-sdk",
+    "name": "khanhicetea/lazada-php-sdk",
     "description": "A Lazada PHP SDK",
     "keywords": [
         "lazada",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.2"
     },
     "autoload": {
         "psr-4": {
